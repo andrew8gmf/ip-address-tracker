@@ -1,0 +1,7 @@
+{
+  "name": "ip-address-tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
